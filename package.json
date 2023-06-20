@@ -1,0 +1,8 @@
+{
+  "name": "vue-qfvs3k",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.3.4"
+  }
+}
